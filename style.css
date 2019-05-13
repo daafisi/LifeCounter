@@ -4,17 +4,16 @@
     grid-template-rows: 3fr 1fr 3fr;
     width: 100%;
     height: 97vh; 
-    color: aqua;
     font-family: sans-serif;
 }
 
 .box {
-    background: #444;
+    background: rgb(0, 0, 0);
     border: 1px solid #555;
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #AAA;
+    color: rgb(12, 216, 121);
     font-size: 30vh;
 
   }
@@ -25,11 +24,11 @@
     transform:rotate(-180deg);
     ms-filter:"progid:DXImageTransform.Microsoft.BasicImage(rotation=2)";
     filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=2);
-    background: #444;
+    background: rgb(0, 0, 0);
     border: 1px solid #555;
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #AAA;
+    color: rgb(179, 41, 105);
     font-size: 30vh;
   }
