@@ -17,8 +17,17 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: rgb(12, 216, 121);
-    font-size: 30vh;
+    color: rgb(8, 139, 226);
+    font-size: 20vh;
+
+  }
+  .box3 {
+    background: rgb(0, 0, 0);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(158, 158, 158);
+    font-size: 5vh;
 
   }
 .box4 {
@@ -32,6 +41,6 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: rgb(179, 41, 105);
-    font-size: 30vh;
+    color: rgb(226, 102, 8);
+    font-size: 20vh;
   }
