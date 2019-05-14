@@ -13,7 +13,6 @@ var app = new Vue({
   el: '#app',
   data: {
       playerLifeTotal: 20,
-      name: 'John',
       oppLifeTotal: 20
   },
   methods: {
