@@ -19,6 +19,7 @@ body {
     justify-content: center;
     color: rgb(8, 139, 226);
     font-size: 20vh;
+    border: 1px solid black;
 
   }
   .box3 {
@@ -28,6 +29,7 @@ body {
     justify-content: center;
     color: rgb(158, 158, 158);
     font-size: 5vh;
+    border: 1px solid black;
 
   }
 .box4 {
@@ -40,6 +42,7 @@ body {
     background: rgb(0, 0, 0);
     display: flex;
     align-items: center;
+    border: 1px solid black;
     justify-content: center;
     color: rgb(226, 102, 8);
     font-size: 20vh;
